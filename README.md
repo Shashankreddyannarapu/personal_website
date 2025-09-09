@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+# Shashank Reddy Annarapu — Personal Portfolio Website
 
-## Project info
+A modern, responsive portfolio website built with **React, TypeScript, Vite, Tailwind CSS, and shadcn-ui**.  
+This site showcases my background, skills, and featured projects in **AI/ML Engineering, Software Development, and Data Engineering**.  
 
-**URL**: https://lovable.dev/projects/df77772b-9379-4712-8854-7d261ace5b26
+Deployed on **Vercel**.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌐 Live Demo
+👉 [Visit My Portfolio](https://<your-vercel-url>.vercel.app)  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/df77772b-9379-4712-8854-7d261ace5b26) and start prompting.
+## 📌 Features
+- **Hero Section** — introduction with focus on AI Agents, ML, and scalable software.
+- **About Section** — academic background, career focus, and professional interests.
+- **Projects Showcase** — highlights of key AI/ML, Data Engineering, and SDE projects with GitHub links.
+- **Skills Section** — technical stack across programming, ML, cloud, and frameworks.
+- **Contact Section** — LinkedIn CTA, email, and availability timeline.
+- **Responsive Design** — mobile-friendly with Tailwind CSS.
+- **Custom Branding** — favicon, color scheme, and personal details updated.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Tech Stack
+- **Frontend**: React, TypeScript, Vite
+- **Styling**: Tailwind CSS, shadcn-ui, Lucide Icons
+- **Deployment**: Vercel
+- **Version Control**: Git & GitHub
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 Getting Started (Local Development)
 
-Follow these steps:
+### Prerequisites
+- Node.js (v18+ recommended)
+- npm (comes with Node.js)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/<your-repo>.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate into the project
+cd <your-repo>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Build for Production
+```bash
+npm run build
+npm run preview
+```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 📬 Contact
+- **Email**: [shashank9949@gmail.com](mailto:shashank9949@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/shashank-reddy-annarapu-96052a232](https://www.linkedin.com/in/shashank-reddy-annarapu-96052a232)  
+- **GitHub**: [github.com/Shashankreddyannarapu](https://github.com/Shashankreddyannarapu)  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/df77772b-9379-4712-8854-7d261ace5b26) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+© 2025 Shashank Reddy Annarapu. Built with ❤️ using React + TypeScript + Tailwind CSS.
