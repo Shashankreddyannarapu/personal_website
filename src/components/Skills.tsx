@@ -37,7 +37,7 @@ const Skills = () => {
       icon: Globe,
       title: "Other Technologies",
       color: "text-accent",
-      skills: ["Git", "Linux", "CI/CD", "RESTful APIs", "GraphQL", "WebSockets", "Redis"]
+      skills: ["Git", "CI/CD", "RESTful APIs", "GraphQL"]
     }
   ];
 
