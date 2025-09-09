@@ -25,13 +25,13 @@ const Skills = () => {
       icon: Settings,
       title: "Databases & Tools",
       color: "text-accent",
-      skills: ["PostgreSQL", "MySQL", "MongoDB", "Neo4j", "LangChain", "Docker", "Kubernetes"]
+      skills: ["PostgreSQL", "MySQL", "MongoDB", "Neo4j", "LangChain"]
     },
     {
       icon: Cloud,
       title: "Cloud Platforms",
       color: "text-primary",
-      skills: ["AWS", "GCP", "Azure", "Cloud Architecture", "Serverless", "Microservices"]
+      skills: ["AWS", "GCP", "Azure", "Cloud Architecture", "Microservices"]
     },
     {
       icon: Globe,
