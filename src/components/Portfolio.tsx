@@ -15,6 +15,22 @@ type Project = {
 const Portfolio = () => {
   const projects: Project[] = [
     {
+      title: "Recruiter Email Classification & Logging (n8n)",
+      description:
+        "Automated recruiter email triage using n8n, Gmail, and Google Sheets. Classifies emails into Positive, Rejection, or Needs Review, applies labels, and logs structured results for tracking. Supports real-time triggers and daily batch mode.",
+      icon: MessageSquare,
+      technologies: ["n8n", "Gmail API", "Google Sheets", "JavaScript", "Workflow Automation"],
+      features: [
+        "Real-time Gmail Trigger",
+        "Rule-Based Classification",
+        "Automatic Labeling in Gmail",
+        "Google Sheets Logging",
+        "Batch Mode for Daily Analysis"
+      ],
+      color: "text-primary",
+      github: "https://github.com/Shashankreddyannarapu/recruiter-email-labeling-n8n"
+    },
+    {
       title: "Learning Graph Assistant",
       description:
         "AI-powered knowledge graph platform using LangChain, Neo4j, and Ollama with GraphRAG Q&A capabilities and PyVis visualization.",
@@ -142,7 +158,6 @@ const Portfolio = () => {
                         </Button>
                       </a>
                     )}
-                    {/* Live Demo removed as requested */}
                   </div>
                 </div>
               </Card>
