@@ -25,19 +25,31 @@ const Skills = () => {
       icon: Settings,
       title: "Databases & Tools",
       color: "text-accent",
-      skills: ["PostgreSQL", "MySQL", "MongoDB", "Neo4j", "LangChain"]
+      skills: ["PostgreSQL", "MySQL", "MongoDB", "Neo4j", "LangChain", "Docker", "Kubernetes"]
     },
     {
       icon: Cloud,
       title: "Cloud Platforms",
       color: "text-primary",
-      skills: ["AWS", "GCP", "Azure", "Cloud Architecture", "Microservices"]
+      skills: ["AWS", "GCP", "Azure", "Cloud Architecture", "Serverless"]
     },
     {
       icon: Globe,
       title: "Other Technologies",
       color: "text-accent",
-      skills: ["Git", "CI/CD", "RESTful APIs", "GraphQL"]
+      skills: [
+        "Git",
+        "Linux",
+        "CI/CD",
+        "RESTful APIs",
+        "GraphQL",
+        "WebSockets",
+        "Redis",
+        "n8n",
+        "Workflow Automation",
+        "Google Sheets API",
+        "Gmail API"
+      ]
     }
   ];
 
