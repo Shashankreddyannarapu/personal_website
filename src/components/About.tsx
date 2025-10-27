@@ -19,6 +19,13 @@ const About = () => {
 
   const experience = [
     {
+      role: "Software Engineer Intern",
+      company: "ReplyQuick AI",
+      period: "Sep 2025 – Present",
+      description: "Developing and integrating AI-driven dental scan analysis models into ReplyQuick’s platform. Building FastAPI-based ML microservices, preparing large-scale intraoral image datasets, and collaborating with backend teams for API deployment and Supabase integration.",
+      current: true
+    },
+    {
       role: "Student Service Associate",
       company: "CSU Fullerton",
       period: "Nov 2023 – Jul 2025",
