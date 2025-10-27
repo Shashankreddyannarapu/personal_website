@@ -16,7 +16,7 @@ const Contact = () => {
       icon: Linkedin,
       label: "LinkedIn",
       value: "linkedin.com/in/shashank-reddy-annarapu-96052a232",
-      link: "https://linkedin.com/in/shashank-reddy-annarapu-96052a232",
+      link: "https://linkedin.com/in/shashank-reddy-annarapu/",
       color: "text-accent"
     },
     {
