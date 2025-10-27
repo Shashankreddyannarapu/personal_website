@@ -49,12 +49,13 @@ const About = () => {
             About <span className="text-gradient">Me</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            I’m a passionate Computer Science graduate student with hands-on experience in
-            building scalable software solutions, machine learning models, and data engineering pipelines. 
-            I’m particularly enthusiastic about AI Agents and their potential to transform how intelligent 
-            systems interact and collaborate. Based in California, I’m actively seeking opportunities as 
-            an AI/ML Engineer, while also being open to Software Engineering and Data Engineering 
-            roles that leverage my technical breadth.
+            I’m a passionate Computer Science graduate student at Cal State Fullerton with 
+            hands-on experience in developing scalable software systems, machine learning models, 
+            and data engineering pipelines. Currently working as an AI/ML Engineer Intern at ReplyQuick AI, 
+            I’m gaining practical experience in building production-ready ML APIs and deploying intelligent automation solutions. 
+            I’m deeply interested in AI Agents and their potential to transform how intelligent systems interact and collaborate. 
+            Based in California, I’m actively seeking opportunities as an AI/ML Engineer, while remaining open to 
+            Software Engineering and Data Engineering roles that leverage my diverse technical skill set.
           </p>
         </div>
 
