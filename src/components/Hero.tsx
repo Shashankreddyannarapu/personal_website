@@ -26,7 +26,7 @@ const Hero = () => {
               <span className="text-gradient">Annarapu</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground font-medium">
-              AI & ML Engineer | Building AI Agents | Open to SDE & Data Engineering Roles
+              AI & ML Engineer Intern @ ReplyQuick AI | Building Intelligent Agents | Open to SDE & Data Engineering Roles
             </p>
           </div>
           
