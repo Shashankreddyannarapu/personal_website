@@ -31,7 +31,7 @@ const Hero = () => {
           </div>
           
           <p className="text-lg text-muted-foreground max-w-2xl leading-relaxed">
-            Master’s student in Computer Science at Cal State Fullerton, passionate about building scalable software solutions, ML models, and data pipelines, and enthusiastic about AI Agents and their role in shaping intelligent systems. Ready to contribute to innovative teams in 2025.
+            Master’s student in Computer Science at Cal State Fullerton and current AI/ML Engineer Intern at ReplyQuick AI. I’m passionate about developing scalable machine learning systems, intelligent agents, and data-driven backend solutions. With hands-on experience in building production-ready ML APIs and data pipelines, I’m eager to contribute to innovative teams advancing real-world AI applications in 2025.
           </p>
           
           <div className="flex flex-wrap gap-4">
