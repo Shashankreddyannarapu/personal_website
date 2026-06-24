@@ -21,9 +21,9 @@ const About = () => {
     {
       role: "Software Engineer Intern",
       company: "ReplyQuick AI",
-      period: "Sep 2025 – Present",
+      period: "Sep 2025 – Dec 2025",
       description: "Developing and integrating AI-driven dental scan analysis models into ReplyQuick’s platform. Building FastAPI-based ML microservices, preparing large-scale intraoral image datasets, and collaborating with backend teams for API deployment and Supabase integration.",
-      current: true
+      current: false
     },
     {
       role: "Student Service Associate",
@@ -49,13 +49,7 @@ const About = () => {
             About <span className="text-gradient">Me</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            I’m a passionate Computer Science graduate student at Cal State Fullerton with 
-            hands-on experience in developing scalable software systems, machine learning models, 
-            and data engineering pipelines. Currently working as an AI/ML Engineer Intern at ReplyQuick AI, 
-            I’m gaining practical experience in building production-ready ML APIs and deploying intelligent automation solutions. 
-            I’m deeply interested in AI Agents and their potential to transform how intelligent systems interact and collaborate. 
-            Based in California, I’m actively seeking opportunities as an AI/ML Engineer, while remaining open to 
-            Software Engineering and Data Engineering roles that leverage my diverse technical skill set.
+           Computer Science graduate specializing in AI, Generative AI, and Machine Learning. Experienced in building agentic AI systems, RAG pipelines, knowledge graph applications, and production ML solutions using LangGraph, LangChain, FastAPI, Neo4j, and AWS. Passionate about developing intelligent systems that combine LLMs, automation, and scalable backend infrastructure to solve real-world problems. Currently seeking full-time opportunities in AI Engineering, Generative AI, and Machine Learning.
           </p>
         </div>
 
