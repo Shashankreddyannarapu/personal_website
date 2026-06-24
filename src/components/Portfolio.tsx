@@ -15,6 +15,32 @@ type Project = {
 const Portfolio = () => {
   const projects: Project[] = [
     {
+      title: "GrantPilot – Agentic Grant-Writing Assistant",
+  description:
+    "Built an agentic AI grant-writing assistant using LangGraph and LangChain that discovers funding opportunities, evaluates eligibility, generates tailored application drafts, and supports human-in-the-loop review through a production-ready FastAPI and Streamlit interface."
+  icon: Brain,
+  technologies: [
+    "Python",
+    "LangGraph",
+    "LangChain",
+    "FastAPI",
+    "PostgreSQL",
+    "Pydantic",
+    "Ollama",
+    "Streamlit"
+  ],
+  features: [
+    "Multi-Agent Grant Discovery",
+    "Eligibility & Relevance Scoring",
+    "Human-in-the-Loop Approval",
+    "Automated Grant Draft Generation",
+    "Persistent Workflow State",
+    "FastAPI & Streamlit Interface"
+  ],
+  color: "text-primary",
+  github: "YOUR_GITHUB_LINK"
+    }
+    {
       title: "Recruiter Email Classification & Logging (n8n)",
       description:
         "Automated recruiter email triage using n8n, Gmail, and Google Sheets. Classifies emails into Positive, Rejection, or Needs Review, applies labels, and logs structured results for tracking. Supports real-time triggers and daily batch mode.",
