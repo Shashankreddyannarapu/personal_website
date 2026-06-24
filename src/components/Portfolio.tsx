@@ -39,7 +39,7 @@ const Portfolio = () => {
   ],
   color: "text-primary",
   github: "https://github.com/Shashankreddyannarapu/grantpilot"
-    }
+    },
     {
       title: "Recruiter Email Classification & Logging (n8n)",
       description:
