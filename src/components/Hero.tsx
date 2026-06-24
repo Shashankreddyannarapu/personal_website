@@ -26,12 +26,12 @@ const Hero = () => {
               <span className="text-gradient">Annarapu</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground font-medium">
-              AI & ML Engineer Intern @ ReplyQuick AI | Building Intelligent Agents | Open to SDE & Data Engineering Roles
+              AI & Generative AI Engineer | Building Agentic AI Systems, RAG Pipelines & Production-Ready ML Applications
             </p>
           </div>
           
           <p className="text-lg text-muted-foreground max-w-2xl leading-relaxed">
-            Master’s student in Computer Science at Cal State Fullerton and current AI/ML Engineer Intern at ReplyQuick AI. I’m passionate about developing scalable machine learning systems, intelligent agents, and data-driven backend solutions. With hands-on experience in building production-ready ML APIs and data pipelines, I’m eager to contribute to innovative teams advancing real-world AI applications in 2025.
+            Computer Science Master's graduate from California State University, Fullerton, specializing in AI, Generative AI, and Machine Learning. Experienced in building agentic AI systems, RAG pipelines, knowledge-graph applications, and production ML APIs. Passionate about developing scalable AI solutions that solve real-world business problems and drive intelligent automation.
           </p>
           
           <div className="flex flex-wrap gap-4">
