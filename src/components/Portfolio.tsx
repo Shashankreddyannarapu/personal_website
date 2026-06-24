@@ -17,7 +17,7 @@ const Portfolio = () => {
     {
       title: "GrantPilot – Agentic Grant-Writing Assistant",
   description:
-    "Built an agentic AI grant-writing assistant using LangGraph and LangChain that discovers funding opportunities, evaluates eligibility, generates tailored application drafts, and supports human-in-the-loop review through a production-ready FastAPI and Streamlit interface."
+    "Built an agentic AI grant-writing assistant using LangGraph and LangChain that discovers funding opportunities, evaluates eligibility, generates tailored application drafts, and supports human-in-the-loop review through a production-ready FastAPI and Streamlit interface.",
   icon: Brain,
   technologies: [
     "Python",
