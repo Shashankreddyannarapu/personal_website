@@ -38,7 +38,7 @@ const Portfolio = () => {
     "FastAPI & Streamlit Interface"
   ],
   color: "text-primary",
-  github: "YOUR_GITHUB_LINK"
+  github: "https://github.com/Shashankreddyannarapu/grantpilot"
     }
     {
       title: "Recruiter Email Classification & Logging (n8n)",
