@@ -112,7 +112,7 @@ const Contact = () => {
                   <div className="space-y-3">
                     <div className="flex items-center gap-3">
                       <div className="w-2 h-2 bg-primary rounded-full" />
-                      <span className="text-sm">Full-time Software Engineering roles</span>
+                      <span className="text-sm">AI & Generative AI Engineering Roles</span>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="w-2 h-2 bg-accent rounded-full" />
@@ -120,11 +120,11 @@ const Contact = () => {
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="w-2 h-2 bg-primary rounded-full" />
-                      <span className="text-sm">Data Engineering opportunities</span>
+                      <span className="text-sm">Agentic AI & LLM Application Development</span>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="w-2 h-2 bg-accent rounded-full" />
-                      <span className="text-sm">Technical consulting projects</span>
+                      <span className="text-sm">Backend AI Systems & Platform Engineering</span>
                     </div>
                   </div>
                 </div>
